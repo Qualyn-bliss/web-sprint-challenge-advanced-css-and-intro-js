@@ -146,17 +146,23 @@ button:hover{
     width:180%;
     height: 40vh;
     margin-left: -40%;
+    padding-bottom: 2rem;
+    padding-top: 2rem;
 }
 a{
     flex-wrap: nowrap;
     font-size: 2.0rem;
     margin-left: -70%;
     margin-right: -55%;
+    padding-bottom: 2rem;
+    padding-top: 2rem;
 }
 .bio{
     width: 282%;
     margin-bottom: 3rem;
     margin-left: -87%;
+    padding-bottom: 2rem;
+    padding-top: 2rem;
 }
 nav {
     width: 56%;
